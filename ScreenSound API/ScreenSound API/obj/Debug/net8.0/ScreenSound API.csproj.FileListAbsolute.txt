@@ -1,0 +1,14 @@
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\bin\Debug\net8.0\ScreenSound API.exe
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\bin\Debug\net8.0\ScreenSound API.deps.json
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\bin\Debug\net8.0\ScreenSound API.runtimeconfig.json
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\bin\Debug\net8.0\ScreenSound API.dll
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\bin\Debug\net8.0\ScreenSound API.pdb
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\obj\Debug\net8.0\ScreenSound API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\obj\Debug\net8.0\ScreenSound API.AssemblyInfoInputs.cache
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\obj\Debug\net8.0\ScreenSound API.AssemblyInfo.cs
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\obj\Debug\net8.0\ScreenSound API.csproj.CoreCompileInputs.cache
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\obj\Debug\net8.0\ScreenSound API.dll
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\obj\Debug\net8.0\refint\ScreenSound API.dll
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\obj\Debug\net8.0\ScreenSound API.pdb
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\obj\Debug\net8.0\ScreenSound API.genruntimeconfig.cache
+C:\Users\gaby_\OneDrive\Área de Trabalho\Programação\Projetos\C#\Screen Sound\ScreenSound API\ScreenSound API\obj\Debug\net8.0\ref\ScreenSound API.dll
