@@ -2,6 +2,7 @@
 
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de C# da Alura.</p>
+<p>Neste projeto eu aprendi a cadastrar, remover, listar e adicionar notar na lista, e em um elemento da lista, também utilizei uma API e aprendi a como controlar e utilizar as informações nela contida.</p>
 
 ## �� Tecnologias
 <div>
